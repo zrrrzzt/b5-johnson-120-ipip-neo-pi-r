@@ -74,7 +74,7 @@ returns an [array with questions and choices](examples/items-en.json)
 
 ## Help wanted
 
-If you want to help by translating the results to another language this is how you do it.
+If you want to help by translating the items to other languages this is how you do it.
 
 - clone the repo
 - find a language you know in [lib/data](lib/data)
