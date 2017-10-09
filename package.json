@@ -1,7 +1,7 @@
 {
-  "name": "b5-result-text",
-  "description": "Text for big five results score",
-  "version": "1.0.0",
+  "name": "b5-johnson-120-ipip-neo-pi-r",
+  "description": "Module for returning Big Five Johnson 120 IPIP-NEO-PI-R items",
+  "version": "1.0.1",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
@@ -30,16 +30,17 @@
   "keywords": [
     "bigfive",
     "personality",
-    "result"
+    "items",
+    "johnson-120-ipip-neo-pi-r"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zrrrzzt/b5-result-text.git"
+    "url": "https://github.com/zrrrzzt/b5-johnson-120-ipip-neo-pi-r.git"
   },
   "bugs": {
-    "url": "https://github.com/zrrrzzt/b5-result-text/issues"
+    "url": "https://github.com/zrrrzzt/b5-johnson-120-ipip-neo-pi-r/issues"
   },
-  "homepage": "https://github.com/zrrrzzt/b5-result-text",
+  "homepage": "https://github.com/zrrrzzt/b5-johnson-120-ipip-neo-pi-r",
   "devDependencies": {
     "ava": "0.22.0",
     "coveralls": "3.0.0",
