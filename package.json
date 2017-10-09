@@ -1,0 +1,50 @@
+{
+  "name": "b5-result-text",
+  "description": "Text for big five results score",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "contributors": [
+    {
+      "name": "Jonas Enge",
+      "email": "jonas.enge@gmail.com",
+      "url": "https://github.com/maccyber"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.6.0"
+  },
+  "scripts": {
+    "test": "standard && nsp check && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "setup": "npm install",
+    "standard-fix": "standard --fix"
+  },
+  "keywords": [
+    "bigfive",
+    "personality",
+    "result"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zrrrzzt/b5-result-text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zrrrzzt/b5-result-text/issues"
+  },
+  "homepage": "https://github.com/zrrrzzt/b5-result-text",
+  "devDependencies": {
+    "ava": "0.22.0",
+    "coveralls": "3.0.0",
+    "nsp": "2.8.1",
+    "nyc": "11.2.1",
+    "standard": "10.0.3"
+  }
+}
