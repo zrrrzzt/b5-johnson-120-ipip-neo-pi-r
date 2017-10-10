@@ -1,7 +1,7 @@
 {
   "name": "b5-johnson-120-ipip-neo-pi-r",
   "description": "Module for returning Big Five Johnson 120 IPIP-NEO-PI-R items",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
@@ -47,5 +47,8 @@
     "nsp": "2.8.1",
     "nyc": "11.2.1",
     "standard": "10.0.3"
+  },
+  "dependencies": {
+    "knuth-shuffle": "^1.0.1"
   }
 }

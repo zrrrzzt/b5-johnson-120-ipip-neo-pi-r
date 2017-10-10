@@ -19,3 +19,9 @@ test('returns english as default', t => {
 test('returns norwegian if supplied no', t => {
   t.truthy(getQuestions('no'), 'norwegian ok')
 })
+
+test('it shuffles if shuffle = true', t => {
+  const questions = getQuestions()
+  const shuffeled = getQuestions('en', true)
+  t.notDeepEqual(questions[0], shuffeled[0], 'shuffeled ok')
+})

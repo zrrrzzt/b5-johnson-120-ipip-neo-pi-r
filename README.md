@@ -20,7 +20,11 @@ $ npm i b5-johnson-120-ipip-neo-pi-r
 
 const getItems = require('b5-johnson-120-ipip-neo-pi-r')
 
-console.log(getItems('<languageCode>')) // defaults to English (en)
+console.log(getItems()) // returns English
+
+console.log(getItems('no')) // returns Norwegian
+
+console.log(getItems('en', true)) // returns English shuffeled
 ```
 
 returns an [array with questions and choices](examples/items-en.json)
