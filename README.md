@@ -1,7 +1,12 @@
 [![Build Status](https://travis-ci.org/zrrrzzt/b5-johnson-120-ipip-neo-pi-r.svg?branch=master)](https://travis-ci.org/zrrrzzt/b5-johnson-120-ipip-neo-pi-r)
 [![Coverage Status](https://coveralls.io/repos/zrrrzzt/b5-johnson-120-ipip-neo-pi-r/badge.svg?branch=master&service=github)](https://coveralls.io/github/zrrrzzt/b5-johnson-120-ipip-neo-pi-r?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Greenkeeper badge](https://badges.greenkeeper.io/zrrrzzt/b5-johnson-120-ipip-neo-pi-r.svg)](https://greenkeeper.io/)
+
+# This module has moved
+
+[Visit Alheimsins/b5-johnson-120-ipip-neo-pi-r](https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r) for latest versions.
+
+From npm: ```$ npm i @alheimsins/b5-johnson-120-ipip-neo-pi-r```
 
 # b5-johnson-120-ipip-neo-pi-r
 
@@ -96,10 +101,3 @@ If you want to help by translating the items to other languages this is how you 
 ## License
 
 [MIT](LICENSE)
-
-## About
-
-Created with <3 by [zrrzzt](https://github.com/zrrrzzt) and [maccyber](https://github.com/maccyber)
-
-![alt text](https://robots.kebabstudios.party/zrrrzzt.png "Robohash image of zrrrzzt") 
-![alt text](https://robots.kebabstudios.party/maccyber.png "Robohash image of maccyber")
