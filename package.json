@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/zrrrzzt/b5-johnson-120-ipip-neo-pi-r",
   "devDependencies": {
-    "ava": "1.2.0",
+    "ava": "1.2.1",
     "coveralls": "3.0.2",
     "nsp": "3.2.1",
     "nyc": "13.1.0",
