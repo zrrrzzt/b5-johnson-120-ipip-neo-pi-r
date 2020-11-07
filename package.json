@@ -46,7 +46,7 @@
     "coveralls": "3.1.0",
     "nsp": "3.2.1",
     "nyc": "15.1.0",
-    "standard": "14.3.4"
+    "standard": "16.0.1"
   },
   "dependencies": {
     "knuth-shuffle": "^1.0.1"
